@@ -1,4 +1,5 @@
-# tree-sitter-javascript
+joniurrahman36@gmali.com.
+Joniur Rahman # tree-sitter-javascript
 
 [![CI][ci]](https://github.com/tree-sitter/tree-sitter-javascript/actions/workflows/ci.yml)
 [![discord][discord]](https://discord.gg/w7nTvsVJhm)
